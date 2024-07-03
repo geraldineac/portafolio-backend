@@ -2,10 +2,10 @@ spring:
   application:
     name: geraldine
   datasource:
-    url: jdbc:mysql://localhost:3306/geraldine_db
-    username: ${MYSQL_DB_USER}
-    password: ${MYSQL_DB_PASSWORD}
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://ud4q1irdipyg6ur9:HeufaulNPGr557t9WVrk@bqnbrg2q4r7le5uhvnrc-mysql.services.clever-cloud.com:3306/bqnbrg2q4r7le5uhvnrc?useSSL=false
+    username: ud4q1irdipyg6ur9
+    password: HeufaulNPGr557t9WVrk
+  #  driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: update
