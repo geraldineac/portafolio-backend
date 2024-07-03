@@ -2,9 +2,9 @@ spring:
   application:
     name: geraldine
   datasource:
-    url: jdbc:mysql://ud4q1irdipyg6ur9:HeufaulNPGr557t9WVrk@bqnbrg2q4r7le5uhvnrc-mysql.services.clever-cloud.com:3306/bqnbrg2q4r7le5uhvnrc?useSSL=false
-    username: ud4q1irdipyg6ur9
-    password: HeufaulNPGr557t9WVrk
+    url: jdbc:mysql://uvduld8bgi3pvxjc:WmME65zPfvvDX7dYIfjF@blensvglwp8woytvzjgp-mysql.services.clever-cloud.com:3306/blensvglwp8woytvzjgp?useSSL=false
+    username: uvduld8bgi3pvxjc
+    password: WmME65zPfvvDX7dYIfjF
   #  driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
